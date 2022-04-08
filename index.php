@@ -117,4 +117,3 @@ if($mysqli->connect_error) {
     ?>
   </div>
 </html>
-// brutto coglione metti tutto in una string con id:like,id:like.....
